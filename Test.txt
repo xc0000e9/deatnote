@@ -1,5 +1,5 @@
 //profile-title: base64:8J+klvCfmI7Yp9uM2YYg2LPYp9ioINqp2KfZhdmE2Kcg2LHYp9uM2q/Yp9mGINmF24wg2KjYp9i02K/wn5mC8J+Rvg==
-//profile-update-interval: 48
+//profile-update-interval: 24
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/unlocked_worlld
 
