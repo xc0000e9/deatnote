@@ -1,6 +1,6 @@
 //profile-title: base64:8J+ViuKcjPCfj7tqb2lu8J+RifCfj7t1bmxvY2tlZF93b3JsbGTinIzwn4+78J+Vig==
 //profile-update-interval: 24
-//subscription-userinfo: upload=802400; download=702400; total=902400; expire=12,09,2024
+//subscription-userinfo: upload=802400; download=702400; total=90002400; expire=23nov24
 //support-url: https://t.me/unlocked_worlld
 
 
